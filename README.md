@@ -1,12 +1,9 @@
 2 type java script calculator 
 
 -> 1st participet file by file 
-    *html sheet> "https://github.com/asrith1999/CodeAlpha_Project_AgeCalculator/blob/main/AgeCalculator.html"
-    
-     *css file > "https://github.com/asrith1999/CodeAlpha_Project_AgeCalculator/blob/main/AgeCalculatorcss.css"
-
-   
-      *js file > "https://github.com/asrith1999/CodeAlpha_Project_AgeCalculator/blob/main/AGE.js"
+//html sheet> "https://github.com/asrith1999/CodeAlpha_Project_AgeCalculator/blob/main/AgeCalculator.html"
+//css file > "https://github.com/asrith1999/CodeAlpha_Project_AgeCalculator/blob/main/AgeCalculatorcss.css"
+    //js file > "https://github.com/asrith1999/CodeAlpha_Project_AgeCalculator/blob/main/AGE.js"
 
 -> 2nd one sheet All are included > 
 
