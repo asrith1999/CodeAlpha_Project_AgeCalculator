@@ -20,6 +20,8 @@ node --test tests/age.test.js
 
 ## Hosting
 
+Vercel deployment: https://asrith-age-calculator.vercel.app
+
 Hosted private preview: https://asrith-age-calculator-1114.muhammedasrith.chatgpt.site
 (sign in with the owning ChatGPT account).
 
